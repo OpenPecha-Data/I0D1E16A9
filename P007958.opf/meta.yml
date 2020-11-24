@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016937
   title: ཤེར་སྙིང་རྣམ་བཤད་སྙིང་པོ་གསལ་བྱེད
-  volume: ''
+  volume:
+    2777a278caff499fb1ae6a3bde4a598e:
+      image_group_id: I01JW217
+      title: Volume 1 of sher snying rnam bshad snying po gsal byed
+      volume_number: 1
+      total_pages: 240
   author: ''
+ebook_metadata:
+  title: ཤེར་སྙིང་རྣམ་བཤད་སྙིང་པོ་གསལ་བྱེད
+  author: ''
+  sku: P007958
+  cover: cover.jpg
+  layers:
+  - pagination
