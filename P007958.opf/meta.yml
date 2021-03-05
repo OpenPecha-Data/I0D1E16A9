@@ -1,15 +1,16 @@
-id: opecha:P007958
+id: P007958
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1016937
   title: ཤེར་སྙིང་རྣམ་བཤད་སྙིང་པོ་གསལ་བྱེད
-  volume:
+  author: ''
+  volumes:
     2777a278caff499fb1ae6a3bde4a598e:
       image_group_id: I01JW217
       title: Volume 1 of sher snying rnam bshad snying po gsal byed
       volume_number: 1
       total_pages: 240
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཤེར་སྙིང་རྣམ་བཤད་སྙིང་པོ་གསལ་བྱེད
   author: ''
